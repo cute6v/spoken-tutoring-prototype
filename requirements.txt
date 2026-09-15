@@ -1,0 +1,14 @@
+# --- Core (required for main.py with LLM feedback) ---
+# FeedbackEngine loads DEEPSEEK_API_KEY from .env; without it, rule-based fallback runs.
+python-dotenv>=1.0.0
+openai>=1.0.0
+
+# --- Optional: Whisper ASR mode (python main.py --asr whisper --audio <file>) ---
+# Also required by evaluate_wer.py, evaluate_latency.py, recompute_wer.py.
+openai-whisper>=20231117
+
+# --- Optional: WER evaluation scripts ---
+jiwer>=3.0.0
+
+# Note: openai-whisper pulls torch and ffmpeg is required at runtime for audio I/O.
+# Install ffmpeg separately (e.g. winget install Gyan.FFmpeg on Windows).

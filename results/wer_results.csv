@@ -1,0 +1,61 @@
+dataset,sample_id,reference,hypothesis,wer
+LibriSpeech-dev-clean,1272-128104-0000,mister quilter is the apostle of the middle classes and we are glad to welcome his gospel,mr quilter is the apostle of the middle classes and we are glad to welcome his gospel,0.0588
+LibriSpeech-dev-clean,1272-128104-0001,nor is mister quilter s manner less interesting than his matter,nor is mr quilter s manner less interesting than his matter,0.0909
+LibriSpeech-dev-clean,1272-128104-0002,he tells us that at this festive season of the year with christmas and roast beef looming before us similes drawn from eating and its results occur most readily to the mind,he tells us that at this festive season of the year with christmas and roast beef looming before us similes drawn from eating and its results occur most readily to the mind,0.0000
+LibriSpeech-dev-clean,1272-128104-0003,he has grave doubts whether sir frederick leighton s work is really greek after all and can discover in it but little of rocky ithaca,he has grieved doubts whether sir frederick layton s work is really greek after all and can discover in it but little of rocky ithaca,0.0800
+LibriSpeech-dev-clean,1272-128104-0004,linnell s pictures are a sort of up guards and at em paintings and mason s exquisite idylls are as national as a jingo poem mister birket foster s landscapes smile at one much in the same way that mister carker used to flash his teeth and mister john collier gives his sitter a cheerful slap on the back before he says like a shampooer in a turkish bath next man,lynille s pictures are sort of up guards and atom paintings and mason s exquisite idols are as national as a jingo poem mr burkett foster s landscapes smile at one much in the same way that mr carker used to flash his teeth and mr john collier gives his sitter a cheerful slap on the back before he says like a shampoo or a turkish bath next man,0.1549
+LibriSpeech-dev-clean,1272-128104-0005,it is obviously unnecessary for us to point out how luminous these criticisms are how delicate in expression,it is obviously unnecessary for us to point out how luminous these criticisms are how delicate in expression,0.0000
+LibriSpeech-dev-clean,1272-128104-0006,on the general principles of art mister quilter writes with equal lucidity,under general principles of art mr quilter writes with equal lucidity,0.2500
+LibriSpeech-dev-clean,1272-128104-0007,painting he tells us is of a different quality to mathematics and finish in art is adding more fact,painting he tells us is of a different quality to mathematics and finish in art is adding more fact,0.0000
+LibriSpeech-dev-clean,1272-128104-0008,as for etchings they are of two kinds british and foreign,as for etchings there are two kinds british and foreign,0.1818
+LibriSpeech-dev-clean,1272-128104-0009,he laments most bitterly the divorce that has been made between decorative art and what we usually call pictures makes the customary appeal to the last judgment and reminds us that in the great days of art michael angelo was the furnishing upholsterer,he laments most bitterly the divorce that has been made between decorative art and what we usually call pictures makes the customary appeal to the last judgment and reminds us that in the great days of art michelangelo was the furnishing upholster,0.0698
+LibriSpeech-dev-clean,1272-128104-0010,near the fire and the ornaments fred brought home from india on the mantel board,near the fire and the ornaments fred brought home from india on the mental board,0.0667
+LibriSpeech-dev-clean,1272-128104-0011,in fact he is quite severe on mister ruskin for not recognising that a picture should denote the frailty of man and remarks with pleasing courtesy and felicitous grace that many phases of feeling,in fact he is quite severe on mr ruskin for not recognizing that a picture should denote the frailty of man and remarks with pleasing criticism in felicia this grace that many phases of feeling,0.1765
+LibriSpeech-dev-clean,1272-128104-0012,only unfortunately his own work never does get good,only unfortunately his own work never does get good,0.0000
+LibriSpeech-dev-clean,1272-128104-0013,mister quilter has missed his chance for he has failed even to make himself the tupper of painting,mr quilter has missed his chance for he has failed even to make himself the tuppur of painting,0.1111
+LibriSpeech-dev-clean,1272-128104-0014,by harry quilter m a,by harry quilter ma,0.4000
+LibriSpeech-dev-clean,1272-135031-0000,because you were sleeping instead of conquering the lovely rose princess has become a fiddle without a bow while poor shaggy sits there a cooing dove,because you are sleeping instead of conquering the lovely rose princess has become a fiddle without a bow while poroshenko sits there accuing dove,0.1923
+LibriSpeech-dev-clean,1272-135031-0001,he has gone and gone for good answered polychrome who had managed to squeeze into the room beside the dragon and had witnessed the occurrences with much interest,he has gone and gone for good answered pauli chrome who had managed to squeeze into the room beside the dragon and had witnessed the occurrences with much interest,0.0714
+LibriSpeech-dev-clean,1272-135031-0002,i have remained a prisoner only because i wished to be one and with this he stepped forward and burst the stout chains as easily as if they had been threads,i have remained a prisoner only because i wish to be one and with this he stepped forward and burst the stout chains as easily as if they had been threads,0.0323
+LibriSpeech-dev-clean,1272-135031-0003,the little girl had been asleep but she heard the raps and opened the door,the little girl had been asleep but she heard the raps and opened the door,0.0000
+LibriSpeech-dev-clean,1272-135031-0004,the king has fled in disgrace and your friends are asking for you,the king has flooded disgrace and your friends are asking for you,0.1538
+LibriSpeech-dev-clean,1272-135031-0005,i begged ruggedo long ago to send him away but he would not do so,i begged rugged out long ago to send him away but he would not do so,0.1333
+LibriSpeech-dev-clean,1272-135031-0006,i also offered to help your brother to escape but he would not go,i also offered to help your brother to escape but he would not go,0.0000
+LibriSpeech-dev-clean,1272-135031-0007,he eats and sleeps very steadily replied the new king,he eats and sleeps very steadily replied the new king,0.0000
+LibriSpeech-dev-clean,1272-135031-0008,i hope he doesn t work too hard said shaggy,i hope it doesn t work too hard since shaggy,0.2000
+LibriSpeech-dev-clean,1272-135031-0009,he doesn t work at all,he doesn t work at all,0.0000
+LibriSpeech-dev-clean,1272-135031-0010,in fact there is nothing he can do in these dominions as well as our nomes whose numbers are so great that it worries us to keep them all busy,in fact there is nothing he can do in these dominions as well as our gnomes whose numbers are so great that it worries us to keep them all busy,0.0333
+LibriSpeech-dev-clean,1272-135031-0011,not exactly returned kaliko,not exactly we ve turned calico,1.0000
+LibriSpeech-dev-clean,1272-135031-0012,where is my brother now,where is my brother now,0.0000
+LibriSpeech-dev-clean,1272-135031-0013,inquired shaggy in the metal forest,inquired shaggy in the metal forest,0.0000
+LibriSpeech-dev-clean,1272-135031-0014,where is that,where is that,0.0000
+speechocean762-test,000030012,mark is going to see elephant,mark is going to see elephant,0.0000
+speechocean762-test,000030024,kate loves china,gator loves china,0.3333
+speechocean762-test,000030040,two six four eight,2 6 4 8,1.0000
+speechocean762-test,000030047,seven three four two,7 3 4 2,1.0000
+speechocean762-test,000030049,two eight nine one,2 8 9 1,1.0000
+speechocean762-test,000030051,one zero one zero,1 0 1 0,1.0000
+speechocean762-test,000030054,two five nine nine,2599,1.0000
+speechocean762-test,000030059,tomato spring photo,tomato spray photo,0.3333
+speechocean762-test,000030067,layla is good at swimming,later it s good at streaming,0.8000
+speechocean762-test,000030069,alice give up boxing,and let s give that boxing,1.0000
+speechocean762-test,000030079,layla wants have some salad,you know once have some salad,0.6000
+speechocean762-test,000030080,does he know the biscuit,does he know the biscuit,0.0000
+speechocean762-test,000030097,here is time s cloth,here is tim s clothes,0.4000
+speechocean762-test,000030101,look at bob s t shirt,look at the above s t shirt,0.3333
+speechocean762-test,000030116,so billy went into the pet shop,so it really went into the pair shop,0.4286
+speechocean762-test,000030119,so tina went into the washroom,13 i went into the washroom,0.3333
+speechocean762-test,000030145,billy lived in new york,blue lived in new york,0.2000
+speechocean762-test,000030153,more than that,more than that,0.0000
+speechocean762-test,000030154,my map will show us,my map will show us,0.0000
+speechocean762-test,000030175,yummy,yummy,0.0000
+speechocean762-test,000240010,it was good for me,it was good for me,0.0000
+speechocean762-test,000240031,we have climbed one step up the ladder,we have climbed one step up the ladder,0.0000
+speechocean762-test,000240060,plus the kids really like the dogs,plus the kids really like the dogs,0.0000
+speechocean762-test,000240071,even when we lose it usually a very close game,even when we lose it s really a very close game,0.2000
+speechocean762-test,000240073,mostly the american community in europe follows the game,mostly the american community in europe follows the game,0.0000
+speechocean762-test,000240099,what he was talking about was sports in general,what is he was talking about was sports in general,0.1111
+speechocean762-test,000240115,way to help us all out,way to help us all out,0.0000
+speechocean762-test,000240116,lovely to make your acquaintance sir,lovely to make your acquaintance serve,0.1667
+speechocean762-test,000240151,successful first day for college,successful first day for college,0.0000
+speechocean762-test,000240152,this is a pretty good place to start,this is a pretty good place to start,0.0000

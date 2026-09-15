@@ -1,0 +1,74 @@
+# --- Secrets & local config (never commit) ---
+.env
+.env.local
+.env.*.local
+!.env.example
+
+# --- Python ---
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+dist/
+*.egg-info/
+.eggs/
+pip-wheel-metadata/
+
+# --- Virtual environments ---
+venv/
+.venv/
+env/
+ENV/
+
+# --- Local runtime / persistence ---
+*.db
+*.sqlite
+*.sqlite3
+latency_bench.db
+tutor_state.db
+
+# --- IDE & editor ---
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.project
+.pydevproject
+
+# --- OS junk ---
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# --- Logs & temp ---
+*.log
+*.tmp
+*.temp
+~$*
+*.bak
+
+# --- ML / ASR caches & weights (download at runtime) ---
+.cache/
+whisper/
+*.pt
+*.pth
+*.onnx
+*.bin
+*.safetensors
+
+# --- Audio / datasets (stored outside repo; ignore if copied locally) ---
+*.wav
+*.flac
+*.WAV
+*.mp3
+*.m4a
+data/
+datasets/
+WAVE/
+
+# --- Local-only dissertation / agent context (keep on disk, do not upload) ---
+ch4_report.txt
+PROJECT_CONTEXT.md
